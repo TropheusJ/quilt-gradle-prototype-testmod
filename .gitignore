@@ -45,5 +45,6 @@ logs/
 resourcepacks/
 saves/
 screenshots/
+client.txt
 options.txt
 usercache.json
